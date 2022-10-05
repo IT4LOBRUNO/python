@@ -1,0 +1,7 @@
+print("Olá Mundo!!")
+nome = input("Qual o seu nome? ")
+endereco = input("Qual o seu endereco ")
+idade = input("Qual a sua idade ")
+print('Ola ' + nome)
+print("Seu endereço é " + endereco)
+print("Sua idade é " + idade)
